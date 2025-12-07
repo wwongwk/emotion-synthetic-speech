@@ -79,19 +79,6 @@ Generated using the So-To-Speak interface with controlled pitch levels and seman
 - **High pitch only conveyed happiness when paired with positive semantics**, suggesting pitch alone cannot override negative or neutral sentiment.
 - The asymmetry reveals that **sadness cues are more robust** and consistent across pitch-semantics interactions, while happiness cues may require more nuanced features like intonation or emotional variation.
 
-### Limitations
-
-- Synthetic speech lacks the full richness of natural vocal expression (e.g., intonation, rhythm).
-- Only two emotional categories (happiness, sadness) were studied.
-- Results may not generalize to human speech perception.
-
-### Future Work
-
-- Expand emotional range (e.g., anger, fear, surprise).
-- Explore additional vocal parameters like **intonation, speech rate, and pauses**.
-- Compare synthetic vs. human speech emotion perception.
-- Integrate **Russell’s Circumplex Model of Affect** to better capture emotional nuance.
-
 ## Contributors
 
 - Yogie Permana  
